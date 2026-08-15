@@ -1,104 +1,374 @@
-## Lore actuellement validé
+# LORE DE GARGATA — RÉSUMÉ COMPLET
 
-### La planète
+# I. ÉLÉMENTS VALIDÉS
 
-* L'histoire se déroule dans un **univers parallèle**.
-* La planète sur laquelle se déroule l'histoire **n'est pas la Terre**.
-* La Terre **n'est pas connue dans cet univers**.
-* Les humains de cet univers **n'ont officiellement jamais effectué de voyage spatial** — du moins, c'est ce qui est affirmé officiellement.
-* La planète est **d'une taille aberrante**, immensément plus grande que ce que l'on pourrait considérer comme normal.
-* La planète abrite des **créatures absolument titanesques**.
-* La planète est globalement **aberrante et hostile**, indépendamment du phénomène de décomposition.
+## 1. Concept général
 
-### L'extérieur
+L'histoire se déroule dans un **univers parallèle**, sur une planète appelée **Gargata**.
 
-* L'environnement extérieur de la tour est devenu **extrêmement hostile à la vie humaine**.
-* L'air est dans un état extrêmement mauvais.
-* Les conditions environnementales provoquent chez les organismes vivants une **dégradation extrêmement rapide**.
-* Un être humain qui reste à l'extérieur finit littéralement par **pourrir comme de la nourriture avariée**.
-* Les animaux sont eux aussi affectés par cet environnement.
-* Les animaux présents à l'extérieur sont devenus **fous / extrêmement dangereux**.
-* L'extérieur abrite également des créatures dont certaines peuvent atteindre des **dimensions titanesques**.
-* La surface de la planète est donc devenue un endroit où l'être humain ne peut pratiquement plus vivre normalement.
+Gargata n'est pas la Terre. Dans cet univers, **la Terre n'est pas connue** et l'humanité n'a officiellement jamais voyagé dans l'espace — du moins, c'est ce qui est affirmé officiellement.
 
-### La tour
-
-* L'humanité s'est réfugiée dans une **immense tour**.
-* Cette tour abrite la civilisation humaine structurée.
-* Elle constitue le principal refuge de l'humanité face à l'environnement extérieur.
-* La quasi-totalité de l'humanité connue vit actuellement à l'intérieur de cette tour.
-* La tour est **immensément grande**.
-* Elle constitue donc, à l'échelle de la civilisation humaine, un véritable monde intérieur.
-
-### L'humanité extérieure
-
-* Il est établi que **des humains vivent encore à l'extérieur**.
-* Certains ont réussi à survivre et sont **au minimum organisés**.
-* Leur situation, leur organisation et leur histoire n'ont **pas encore été définies**.
+L'humanité structurée vit principalement dans une **immense tour**, qui constitue le principal refuge de la civilisation humaine.
 
 ---
 
-# Possibilités non validées
+## 2. Gargata — une planète aberrante
 
-Ces éléments sont uniquement des pistes évoquées ou des possibilités intéressantes. **Ils ne font pas partie du lore établi.**
+Gargata est une planète **absolument aberrante du point de vue humain**.
 
-### Origine de la planète
+Elle est d'une taille **ridiculement immense** et possède une biosphère radicalement différente de celle de la Terre.
 
-* La planète pourrait avoir une origine ou une nature particulière.
-* Sa taille aberrante pourrait avoir une explication.
-* Les lois physiques ou biologiques pourraient être différentes de celles de notre univers.
+Elle abrite notamment des créatures pouvant atteindre des **dimensions titanesques**.
 
-### Origine de la dégradation
+Mais Gargata n'est pas une planète « malade », « corrompue » ou « ratée ».
 
-Le phénomène qui fait pourrir les organismes pourrait être :
+### Gargata fonctionne parfaitement pour sa propre vie.
 
-* climatique ;
-* biologique ;
-* chimique ;
-* lié à une contamination ;
-* artificiel ;
-* ou complètement autre chose.
+Les organismes qui y sont nés ont évolué pour être adaptés aux conditions de leur planète.
 
-**Aucune origine n'est actuellement définie.**
+Pour un humain :
 
-### Origine de l'humanité
+> **Gargata est une horreur abjecte.**
 
-Une possibilité serait que l'origine réelle des humains soit différente de ce que raconte l'histoire officielle.
+Pour une créature native de Gargata :
 
-Par exemple, la question pourrait éventuellement devenir :
+> **Gargata est simplement son environnement naturel.**
 
-> **Si les humains n'ont jamais voyagé dans l'espace, pourquoi existent-ils sur cette planète ?**
+---
 
-Mais **rien n'est décidé concernant cette question**.
+## 3. La Terre et Gargata
 
-### La véritable nature de la planète
+La Terre et Gargata ont toutes deux été façonnées par **la vie et l'évolution**.
 
-Les créatures gigantesques pourraient éventuellement être liées à quelque chose de beaucoup plus vaste concernant la planète elle-même.
+La différence est que la vie y a pris des formes radicalement différentes.
 
-Possibilités évoquées :
+### Terre
 
-* certaines « montagnes » pourraient être des organismes ;
-* certaines structures géologiques pourraient avoir une origine biologique ;
-* certains organismes pourraient être tellement gigantesques qu'ils seraient confondus avec des éléments du paysage.
+La nature terrestre est globalement perçue par les humains comme :
 
-**Aucune de ces idées n'est actuellement canon.**
+* belle ;
+* familière ;
+* harmonieuse ;
+* naturelle.
 
-### La société dans la tour
+### Gargata
 
-Il reste entièrement à définir :
+La nature gargatienne est perçue par les humains comme :
 
-* son fonctionnement ;
-* son gouvernement ;
-* ses classes sociales ;
-* ses technologies ;
-* la production de nourriture et d'eau ;
-* son architecture interne ;
-* les différentes zones de la tour ;
-* les conflits entre humains ;
-* pourquoi la société fonctionne comme elle fonctionne.
+* grotesque ;
+* monstrueuse ;
+* abjecte ;
+* hostile ;
+* profondément étrangère.
 
-### L'histoire principale
+Mais biologiquement, Gargata n'est pas « pire ».
 
-**Elle n'est pas encore définie.**
+**Les deux mondes possèdent simplement des formes de vie différentes.**
 
-Pour l'instant, tu as surtout établi **le cadre dans lequel l'histoire se déroulera**, pas encore l'intrigue.
+Une créature de Gargata pourrait même considérer les organismes terrestres comme des êtres extrêmement fragiles et mal adaptés.
+
+---
+
+## 4. La biosphère de Gargata
+
+Les créatures nées sur Gargata sont **adaptées à son climat et à son environnement**.
+
+Elles ne sont pas nécessairement des animaux terrestres ayant subi des mutations.
+
+Ce sont des formes de vie propres à Gargata, ayant évolué dans ses conditions naturelles.
+
+La planète possède notamment :
+
+* des créatures ridiculement gigantesques ;
+* des organismes capables de survivre dans des conditions mortelles pour les organismes terrestres ;
+* une faune extrêmement hostile aux humains ;
+* une importante population d'insectes ;
+* des créatures ressemblant à des sortes de **cafards**, mais qui constituent leur propre forme de vie gargatienne.
+
+La diversité exacte de cette biosphère reste à développer.
+
+---
+
+## 5. L'environnement extérieur
+
+L'extérieur de la Tour est extrêmement hostile aux humains et aux animaux terrestres.
+
+Les conditions environnementales provoquent notamment une **dégradation extrêmement rapide des organismes terrestres**.
+
+Un humain qui reste suffisamment longtemps dehors finit littéralement par **pourrir**, comme de la nourriture avariée.
+
+Cette caractéristique ne signifie cependant pas que les organismes gargatiens subissent le même phénomène.
+
+Ils sont **adaptés à leur propre planète**.
+
+---
+
+## 6. La Tour
+
+L'humanité s'est réfugiée dans une **immense tour** afin de survivre aux conditions de Gargata.
+
+La Tour abrite la civilisation humaine structurée et constitue pratiquement **un monde intérieur à elle seule**.
+
+La quasi-totalité de l'humanité connue y réside.
+
+Cependant, la Tour n'est pas uniquement un refuge.
+
+### L'objectif de la civilisation de la Tour est désormais plus ambitieux :
+
+**conquérir Gargata entière et permettre à l'humanité d'y prospérer.**
+
+Les humains refusent de simplement rester enfermés dans leur refuge.
+
+Ils veulent progressivement étendre leur territoire et rendre la planète exploitable.
+
+---
+
+## 7. Le problème de la conquête
+
+La conquête de Gargata se heurte à un problème fondamental :
+
+> **Les humains ne sont pas adaptés à Gargata.**
+
+Les humains envoyés à l'extérieur pour participer à l'expansion de la civilisation risquent de **pourrir et de mourir**.
+
+Même une tentative visant à rendre progressivement certaines zones de Gargata habitables nécessite donc énormément de vies humaines.
+
+La Tour doit ainsi trouver des personnes capables de servir de **ressources sacrifiables** pour cette entreprise.
+
+---
+
+## 8. La Basse Ville
+
+La Tour possède notamment une population vivant dans une **Basse Ville**.
+
+Cette population est particulièrement marginalisée par rapport au reste de la civilisation.
+
+Certaines personnes y vivent sans véritable histoire, sans famille ou sans importance sociale aux yeux de la Tour.
+
+La Tour considère donc une partie de cette population comme **sacrifiable**.
+
+Ces personnes sont envoyées à l'extérieur pour participer à la conquête et à l'expansion de l'humanité.
+
+Elles sont envoyées dans un environnement où elles risquent de **pourrir et mourir** simplement parce que la civilisation considère leur sacrifice comme acceptable.
+
+Le système rappelle notamment l'idée de populations sacrifiées dans *Shingeki no Kyojin*, mais constitue son propre élément du lore de Gargata.
+
+---
+
+## 9. Le protagoniste
+
+Le personnage principal fait partie des personnes envoyées à l'extérieur.
+
+Il est donc directement victime de ce système.
+
+La Tour ne représente pas simplement une menace abstraite pour lui :
+
+> **elle est responsable de la situation dans laquelle il se trouve.**
+
+Il développe ainsi une haine extrêmement profonde envers la Tour et envers le système qui considère certaines vies humaines comme consommables.
+
+Cette haine devient progressivement **sa principale source de détermination**.
+
+---
+
+## 10. La haine du protagoniste
+
+Le protagoniste n'a pas, au départ, les moyens nécessaires pour renverser ce système.
+
+Il doit survivre.
+
+Il doit continuer à avancer.
+
+Il doit combattre malgré un environnement qui cherche littéralement à le décomposer.
+
+Mais sa haine lui donne une raison de continuer.
+
+### Sa haine devient presque sa dernière parcelle d'humanité.
+
+Il ne continue pas uniquement parce qu'il espère vivre.
+
+Il continue parce qu'il **refuse de laisser ceux qui l'ont sacrifié gagner**.
+
+Cette haine devient progressivement quelque chose d'extrêmement violent, jusqu'à menacer de lui faire perdre son humanité.
+
+---
+
+## 11. Le climax
+
+Vers la fin du jeu, le protagoniste — ou éventuellement un personnage extrêmement important — obtient enfin **tout ce qui lui manquait pour accomplir ce qu'il voulait depuis le début**.
+
+Pendant toute l'histoire, il était limité.
+
+Il n'avait pas la puissance ou les moyens nécessaires.
+
+Puis arrive enfin le moment où il **peut réellement tout libérer**.
+
+Il ne hurle pas.
+
+Il ne pleure pas.
+
+Il ne fait pas exploser sa rage verbalement.
+
+Il parle **calmement**.
+
+Sa haine est devenue tellement profonde qu'elle ne nécessite plus de colère visible.
+
+Il est à deux doigts de perdre son humanité, et pourtant cette haine est paradoxalement **la dernière chose qui le maintient humain**.
+
+Il prononce alors :
+
+> **“I will not stop… until they rot in Hell.”**
+
+La phrase représente l'aboutissement de toute sa haine accumulée depuis le début du jeu.
+
+---
+
+# II. ÉLÉMENTS AVANCÉS MAIS PAS ENCORE TOTALEMENT DÉFINIS
+
+## 1. La conquête de Gargata
+
+L'idée selon laquelle la Tour cherche à **conquérir toute la planète** est maintenant établie comme direction majeure.
+
+Cependant, il reste à définir :
+
+* comment la conquête fonctionne concrètement ;
+* pourquoi la Tour veut absolument conquérir Gargata ;
+* ce qu'elle compte faire de la planète une fois conquise ;
+* comment elle compte rendre les différentes régions habitables ;
+* quelles technologies elle utilise ;
+* quelle quantité de personnes sont sacrifiées ;
+* depuis combien de temps cette politique existe.
+
+---
+
+## 2. Le système de sacrifice
+
+Le principe selon lequel la Tour utilise les habitants les plus marginalisés comme ressources humaines est établi comme idée avancée.
+
+Mais il reste à définir :
+
+* comment les personnes sont sélectionnées ;
+* si elles sont forcées ou manipulées ;
+* comment la Tour justifie cette politique ;
+* comment elle présente ces missions à la population ;
+* si la population générale connaît la vérité ;
+* ce qui arrive exactement aux personnes envoyées dehors.
+
+---
+
+## 3. La Basse Ville
+
+Le concept existe mais son fonctionnement reste à construire.
+
+Il reste notamment à déterminer :
+
+* son apparence ;
+* sa taille ;
+* ses conditions de vie ;
+* son statut légal ;
+* son rapport avec les autres parties de la Tour ;
+* les raisons historiques de sa marginalisation.
+
+---
+
+## 4. Le protagoniste
+
+Son origine et son histoire personnelle restent à développer.
+
+Il reste à déterminer :
+
+* sa vie avant son envoi ;
+* sa famille éventuelle ;
+* ses relations ;
+* ce qu'il perd exactement ;
+* ce qui déclenche définitivement sa haine ;
+* son évolution psychologique ;
+* les événements qui vont progressivement transformer sa haine en quelque chose d'extrême.
+
+---
+
+# III. ÉLÉMENTS NON VALIDÉS / À DÉFINIR
+
+## 1. Origine de Gargata
+
+On ne sait pas encore :
+
+* comment la planète s'est formée ;
+* pourquoi elle est aussi immense ;
+* quelle est exactement la nature de son système solaire ;
+* si ses lois physiques sont différentes de celles de la Terre ;
+* pourquoi son environnement possède ces caractéristiques.
+
+---
+
+## 2. Origine du phénomène de pourriture
+
+La cause exacte de la décomposition rapide des organismes terrestres reste inconnue.
+
+Aucune explication définitive n'a encore été choisie.
+
+---
+
+## 3. Origine de l'humanité
+
+La véritable origine des humains dans cet univers reste inconnue.
+
+La seule information actuellement établie est que **la Terre n'est pas connue officiellement** et que les humains n'ont officiellement jamais voyagé dans l'espace.
+
+La vérité derrière cette situation n'est pas encore décidée.
+
+---
+
+## 4. Société de la Tour
+
+Il reste à définir :
+
+* le gouvernement ;
+* les classes sociales ;
+* les institutions ;
+* les lois ;
+* la religion éventuelle ;
+* l'économie ;
+* l'alimentation ;
+* l'eau ;
+* l'énergie ;
+* les technologies ;
+* les différentes villes ou niveaux ;
+* les forces armées ;
+* les conflits politiques.
+
+---
+
+## 5. Humains vivant à l'extérieur
+
+Il est établi que des humains vivent encore à l'extérieur et que certains sont **au minimum organisés**.
+
+Mais leur fonctionnement reste entièrement à créer.
+
+---
+
+## 6. Créatures de Gargata
+
+Le principe biologique est établi, mais il reste à créer :
+
+* les espèces ;
+* leur anatomie ;
+* leurs comportements ;
+* leur intelligence ;
+* leur reproduction ;
+* leurs relations avec les humains ;
+* leurs chaînes alimentaires ;
+* leurs écosystèmes ;
+* les créatures titanesques.
+
+---
+
+## 7. Intrigue principale
+
+L'intrigue complète n'est pas encore définie.
+
+Les personnages principaux, les antagonistes, les factions, les événements majeurs, les révélations et la progression exacte du protagoniste restent à construire.
+
+**À ce stade, le cœur du concept est donc :**
+
+> **Une humanité enfermée dans une immense Tour cherche à conquérir une planète qui n'a jamais été faite pour elle. Pour accomplir cette ambition, elle sacrifie les vies de ceux qu'elle considère comme inutiles. Le protagoniste, envoyé à l'extérieur comme une ressource jetable, survit grâce à la haine qu'il nourrit envers cette civilisation. Et lorsqu'il obtient enfin les moyens de la détruire, il décide de ne plus jamais s'arrêter — jusqu'à ce qu'ils pourrissent en Enfer.**
