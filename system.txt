@@ -1,3 +1,2 @@
-- 1 etoile
-- 2 planete
+- 2 etoile
 - 1 satelite
