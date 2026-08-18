@@ -2,11 +2,11 @@
 
 ## 1. Concept général
 
-**Gargata** est un jeu narratif en 3D stylisée se déroulant dans un **univers parallèle**, sur une planète appelée Gargata.
+**Gargata** est un jeu narratif en 3D stylisée se déroulant sur une planète appelée Gargata.
 
 L'histoire du jeu se déroule **presque entièrement à l'intérieur d'une immense Tour**, où vit l'humanité actuelle.
 
-L'extérieur de Gargata existe, mais il est extrêmement hostile aux humains. Les sorties à l'extérieur seraient donc **exceptionnelles** et réservées à certaines scènes importantes.
+L'extérieur de Gargata existe, mais il est extrêmement hostile aux humains.
 
 ---
 
@@ -21,9 +21,7 @@ On y trouve notamment :
 * des créatures extrêmement grandes ;
 * des créatures adaptées aux conditions hostiles de la planète ;
 * une importante diversité d'insectes ;
-* des formes de vie grotesques ou monstrueuses du point de vue humain.
-
-Gargata est cependant un environnement parfaitement viable pour les organismes qui y sont adaptés.
+* des formes de vie grotesques ou monstrueuses du point de vue humain (plante ou animal).
 
 ---
 
@@ -31,7 +29,7 @@ Gargata est cependant un environnement parfaitement viable pour les organismes q
 
 L'extérieur est **extrêmement hostile aux organismes humains et aux organismes terrestres**.
 
-L'atmosphère et l'environnement extérieur sont remplis de bactéries, virus et autres facteurs biologiques auxquels les humains ne sont pas adaptés.
+L’atmosphère et l’environnement « grouillent » littéralement de bactéries, de virus et d’autres agents biologiques auxquels les humains ne sont pas adaptés.
 
 Lorsqu'un humain est exposé à l'extérieur :
 
