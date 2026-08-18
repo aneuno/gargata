@@ -1,301 +1,455 @@
-# GARGATA — RÉSUMÉ ACTUEL DU PROJET
+GARGATA — RÉSUMÉ AVANCÉ DU PROJET
 
-## 1. Concept général
+1. Concept général
 
-**Gargata** est un jeu narratif en 3D stylisée se déroulant sur une planète appelée Gargata.
+Gargata est un jeu narratif en 3D stylisée, se déroulant dans un univers parallèle.
 
-L'histoire du jeu se déroule **presque entièrement à l'intérieur d'une immense Tour**, où vit l'humanité actuelle.
+L'histoire se déroule principalement dans une immense Tour, qui abrite l'humanité actuelle.
 
-L'extérieur de Gargata existe, mais il est extrêmement hostile aux humains.
+La planète sur laquelle se trouve cette Tour est Gargata, un monde artificiel gigantesque dont l'origine remonte à une ancienne civilisation humaine extrêmement avancée.
 
----
+L'extérieur de Gargata est extrêmement hostile à l'organisme humain. Les humains vivent donc essentiellement à l'intérieur de la Tour.
 
-# 2. Gargata — la planète
-
-Gargata est une planète **aberrante par son échelle**.
-
-Elle est extrêmement grande et possède une biosphère composée de formes de vie radicalement différentes de celles auxquelles les humains sont habitués.
-
-On y trouve notamment :
-
-* des créatures extrêmement grandes ;
-* des créatures adaptées aux conditions hostiles de la planète ;
-* une importante diversité d'insectes ;
-* des formes de vie grotesques ou monstrueuses du point de vue humain (plante ou animal).
 
 ---
 
-# 3. L'extérieur de Gargata
+2. Gargata — ce qu'est réellement la planète
 
-L'extérieur est **extrêmement hostile aux organismes humains et aux organismes terrestres**.
+Gargata n'est pas une planète naturelle.
 
-L’atmosphère et l’environnement « grouillent » littéralement de bactéries, de virus et d’autres agents biologiques auxquels les humains ne sont pas adaptés.
+À l'origine, il s'agit d'une étoile autour de laquelle une ancienne civilisation humaine a construit une infrastructure gigantesque.
 
-Lorsqu'un humain est exposé à l'extérieur :
+Cette civilisation a ensuite transformé cette infrastructure en une sorte de planète artificielle, avec une immense surface rocheuse et organique.
 
-* son organisme commence à se dégrader extrêmement rapidement ;
-* son corps se met littéralement à pourrir ;
-* la décomposition peut continuer alors que la personne est encore vivante ;
-* une exposition prolongée finit par provoquer sa mort.
+L'objectif initial de cette construction était notamment de créer une biosphère et de faire naître la vie à l'échelle planétaire.
 
-Les organismes natifs de Gargata sont adaptés à ces conditions.
+La Gargata actuelle est donc le résultat d'un projet de transformation astronomique et biologique d'une ampleur inimaginable pour l'humanité actuelle.
+
 
 ---
 
-# 4. La structure de Gargata
+3. Structure générale de Gargata
 
-Gargata n'est pas une planète entièrement naturelle.
+À très grande échelle, Gargata est constituée de plusieurs couches.
 
-Elle est **une construction gigantesque réalisée par une ancienne humanité**.
+1. L'étoile
 
-À l'origine, il existait une planète rocheuse naturelle relativement petite, approximativement comparable à la Terre en taille et possédant une gravité d'environ **1 g**.
+Au centre se trouve l'étoile originelle de Gargata.
 
-Une ancienne civilisation humaine a ensuite transformé cette planète.
+Elle constitue une source d'énergie gigantesque.
 
-La structure actuelle de Gargata est composée, à très grande échelle, de plusieurs couches :
+2. La mégastructure autour de l'étoile
 
-### 1. La planète originelle
+L'ancienne humanité construit une gigantesque structure de type Dyson, destinée à exploiter l'énergie de l'étoile.
 
-Une planète rocheuse naturelle constituant le noyau de Gargata et fournissant l'essentiel de la gravité de surface.
+Cette infrastructure constitue la base artificielle sur laquelle Gargata est construite.
 
-### 2. Une gigantesque structure artificielle
+3. La couche planétaire
 
-Une mégastructure construite autour de la planète originelle.
+Par-dessus cette structure, les humains construisent une immense couche composée notamment de :
 
-Elle peut notamment être constituée de matériaux extrêmement avancés, de métal, de structures mécaniques et de systèmes de type **tensegrité**.
+roche ;
 
-### 3. Une couche extérieure
+métal ;
 
-Une immense couche composée notamment de :
+matériaux artificiels ;
 
-* roche ;
-* matière organique ;
-* sol ;
-* autres matériaux apportés ou construits par l'ancienne humanité.
+matière organique ;
 
-Cette couche constitue la surface actuelle de Gargata.
+eau ;
 
----
+sol ;
 
-# 5. L'ancienne humanité
+ressources importées.
 
-L'humanité capable de construire Gargata **n'est pas l'humanité actuelle**.
 
-Elle provient d'une époque extrêmement ancienne et a connu une évolution historique et technologique qui dépasse totalement ce que connaît l'humanité réelle actuelle.
+Cette couche forme progressivement une surface planétaire gigantesque.
 
-Cette ancienne humanité a notamment été capable de :
+4. La biosphère
 
-* voyager dans l'espace ;
-* atteindre Gargata ;
-* apporter d'immenses quantités de ressources ;
-* transformer une planète entière ;
-* construire la mégastructure constituant Gargata.
+Les humains implantent et créent la vie sur cette surface.
 
-La civilisation actuelle vivant dans la Tour **n'est pas capable de réaliser de telles choses**.
+L'objectif est de créer une biosphère complète à l'échelle de la planète.
+
 
 ---
 
-# 6. La disparition du savoir ancien
+4. La création de la vie
 
-L'humanité actuelle a perdu une immense partie des connaissances et technologies de l'ancienne civilisation.
+C'est l'une des caractéristiques fondamentales de Gargata.
 
-Elle vit désormais dans un monde construit par une civilisation dont elle ne comprend plus nécessairement l'origine ni les capacités.
+La vie présente sur la planète est le résultat du projet de création de biosphère de l'ancienne humanité.
 
-Les habitants actuels de Gargata ne connaissent donc pas forcément la véritable histoire de leur monde.
+Cependant, cette vie n'a pas produit un environnement comparable à celui auquel les humains sont naturellement adaptés.
 
-L'origine réelle de Gargata, de sa structure et de l'humanité ancienne constitue une partie des **mystères du monde**.
+La biosphère de Gargata est extrêmement hostile aux humains.
 
----
+Elle comprend notamment :
 
-# 7. Les technologies anciennes
+des organismes gigantesques ;
 
-Des traces de l'ancienne technologie existent encore dans la vie quotidienne.
+des formes de vie extrêmement résistantes ;
 
-Elles ne sont pas nécessairement considérées comme extraordinaires par les humains actuels.
+des organismes microscopiques dangereux ;
 
-Le joueur pourra rencontrer de petits objets et appareils du quotidien utilisant des technologies **extrêmement avancées par rapport à notre technologie actuelle**.
+une prolifération de bactéries et de virus ;
 
-Ces technologies seront montrées sans explication directe.
+des organismes adaptés à la décomposition ;
 
-Le jeu ne dira pas explicitement :
+des créatures extrêmement différentes des animaux connus par l'humanité actuelle.
 
-> « Ceci vient de l'ancienne humanité terrestre. »
 
-Le joueur pourra progressivement comprendre que certains objets utilisés quotidiennement sont en réalité **des vestiges de la technologie de l'ancienne humanité**.
+Le résultat est une planète où la vie prospère, mais où les humains sont extrêmement mal adaptés à cette vie.
 
----
-
-# 8. La Terre
-
-La Terre existe dans l'histoire de l'humanité ancienne.
-
-Cependant, **la Terre n'est pas connue de l'humanité actuelle vivant sur Gargata**.
-
-L'histoire officielle et les connaissances actuelles ne donnent pas nécessairement accès à cette origine.
-
-Le joueur pourra éventuellement comprendre l'existence de cette ancienne civilisation terrestre grâce aux indices laissés dans le monde, notamment les technologies anciennes.
 
 ---
 
-# 9. La Tour
+5. L'extérieur de Gargata
 
-L'humanité actuelle vit principalement dans une **immense Tour**.
+L'environnement extérieur est extrêmement dangereux pour les humains.
+
+L'atmosphère et l'environnement contiennent notamment une quantité importante de bactéries, virus et autres facteurs biologiques auxquels les humains ne sont pas adaptés.
+
+Lorsqu'un humain sort de la Tour et reste exposé à l'environnement :
+
+son organisme commence à se dégrader extrêmement rapidement ;
+
+ses tissus commencent littéralement à pourrir ;
+
+la décomposition peut continuer alors que la personne est encore vivante ;
+
+une exposition prolongée finit probablement par entraîner la mort.
+
+
+Les organismes natifs de Gargata, eux, sont adaptés à cet environnement.
+
+
+---
+
+6. La faune de Gargata
+
+La planète possède une vie extrêmement abondante et étrange.
+
+Certaines créatures sont ridiculement gigantesques.
+
+D'autres sont adaptées à la décomposition ou aux conditions biologiques particulières de la planète.
+
+Les insectes sont notamment extrêmement prospères, avec des créatures pouvant rappeler des mutations de cafards.
+
+La faune de Gargata doit donner l'impression d'un monde vivant et extrêmement développé, mais profondément hostile à l'être humain.
+
+
+---
+
+7. L'ancienne humanité
+
+L'humanité ayant créé Gargata est très différente de l'humanité actuelle.
+
+Elle a vécu une histoire extrêmement longue et complexe, dépassant largement tout ce que l'humanité réelle actuelle est capable d'accomplir.
+
+Elle possédait notamment des technologies permettant :
+
+le voyage spatial ;
+
+l'exploitation d'une étoile entière ;
+
+la construction d'une mégastructure de type Dyson ;
+
+la transformation d'un environnement à l'échelle planétaire ;
+
+la création et l'implantation d'une biosphère entière ;
+
+le déplacement d'immenses quantités de ressources.
+
+
+Cette civilisation est donc technologiquement incomparablement plus avancée que l'humanité actuelle de Gargata.
+
+
+---
+
+8. L'humanité actuelle
+
+L'humanité vivant actuellement sur Gargata n'est pas capable de reproduire les réalisations de ses ancêtres.
+
+Elle vit dans la Tour et a perdu une immense quantité de connaissances concernant l'ancienne civilisation.
+
+Elle ne possède plus nécessairement la compréhension complète des technologies ayant permis de créer Gargata.
+
+Les humains actuels vivent donc dans un monde dont une grande partie de l'infrastructure est l'héritage d'une civilisation ancienne qu'ils ne comprennent plus complètement.
+
+
+---
+
+9. Les technologies anciennes
+
+Des technologies extrêmement avancées de l'ancienne humanité existent encore.
+
+Elles peuvent apparaître sous la forme de petits objets du quotidien.
+
+Ces objets peuvent sembler parfaitement normaux aux habitants actuels, alors qu'ils reposent sur des technologies extrêmement avancées comparées à notre technologie actuelle.
+
+Le jeu ne dira jamais explicitement :
+
+> « Cette technologie vient de l'ancienne humanité terrestre. »
+
+
+
+Le joueur pourra cependant remarquer progressivement des indices permettant de comprendre que certains objets ordinaires sont en réalité des vestiges technologiques de l'ancienne humanité.
+
+
+---
+
+10. La Terre
+
+La Terre fait partie de l'histoire de l'ancienne humanité.
+
+Cependant, la Terre n'est pas connue de l'humanité actuelle vivant sur Gargata.
+
+L'existence de la Terre et la véritable histoire de l'humanité ancienne constituent donc des éléments mystérieux de l'univers.
+
+Le joueur pourra éventuellement comprendre certaines choses grâce aux traces laissées par l'ancienne civilisation, sans que le jeu lui fournisse nécessairement une explication directe.
+
+
+---
+
+11. La Tour
+
+L'humanité actuelle vit principalement dans une immense Tour.
 
 La Tour constitue le principal environnement habitable de l'humanité.
 
-Elle est suffisamment grande pour fonctionner comme **un monde à part entière**.
+Elle fonctionne comme une civilisation gigantesque enfermée dans une structure artificielle.
 
-Elle contient notamment différents espaces de vie, infrastructures et populations.
+Elle possède différents niveaux, quartiers et infrastructures.
 
-La vie quotidienne dans la Tour constitue une partie majeure de l'univers.
+Les populations ne sont pas réparties uniformément.
 
----
+Une moyenne très grossière envisagée est d'environ 8 600 habitants par étage, mais certains étages peuvent être extrêmement calmes tandis que d'autres peuvent être fortement surpeuplés.
 
-# 10. La vie dans la Tour
-
-La Tour doit être considérée comme une véritable civilisation et pas simplement comme un refuge.
-
-Les humains y vivent, travaillent, se déplacent, consomment des ressources et développent leur propre société.
-
-La structure exacte de cette société reste à construire.
-
-La Tour pourra notamment comporter des zones très différentes les unes des autres, avec des densités de population variables.
-
-Une moyenne très grossière envisagée est d'environ **8 600 habitants par étage**, basée sur une densité urbaine comparable à celle de New York.
-
-Cette valeur n'est pas uniforme : certains étages peuvent être extrêmement calmes tandis que d'autres peuvent être fortement surpeuplés.
 
 ---
 
-# 11. L'eau, l'air et les ressources
+12. Vie quotidienne dans la Tour
 
-Le fonctionnement précis de ces systèmes reste à définir.
+La Tour doit être considérée comme une véritable civilisation, pas simplement comme un bunker.
 
-Il faudra notamment expliquer comment une civilisation aussi importante peut maintenir :
+Les humains y vivent, travaillent, se déplacent, consomment des ressources et possèdent leur propre société.
 
-* son approvisionnement en eau ;
-* son air respirable ;
-* sa nourriture ;
-* son énergie ;
-* ses infrastructures ;
+Les détails de cette société restent encore à construire.
 
-alors que l'environnement extérieur est extrêmement hostile et que Gargata possède très peu d'eau accessible.
+Il faudra notamment définir progressivement :
 
-Ces éléments font partie de la construction future de l'univers et **ne sont pas encore définitivement établis**.
+alimentation ;
 
----
+eau ;
 
-# 12. Les mystères de Gargata
+air ;
 
-Plusieurs questions fondamentales existent volontairement dans l'univers :
+énergie ;
 
-* Comment l'ancienne humanité est-elle arrivée sur Gargata ?
-* Pourquoi avoir construit une planète aussi gigantesque ?
-* Pourquoi la planète originelle a-t-elle été transformée ?
-* Comment cette civilisation possédait-elle une technologie aussi avancée ?
-* Qu'est devenue l'ancienne humanité ?
-* Comment l'humanité actuelle a-t-elle perdu autant de connaissances ?
-* Pourquoi la Terre est-elle inconnue aujourd'hui ?
-* Quelle est la véritable histoire de Gargata ?
-* Comment la civilisation actuelle maintient-elle exactement son environnement artificiel ?
+transports ;
 
-Ces questions **ne doivent pas nécessairement toutes recevoir une réponse dans le jeu**.
+économie ;
 
-Certaines peuvent rester mystérieuses.
+travail ;
 
----
+logements ;
 
-# 13. L'histoire du jeu
+médecine ;
 
-**L'intrigue principale n'est pas encore définie.**
+éducation ;
 
-Il n'y a actuellement :
+organisation des niveaux ;
 
-* pas de protagoniste définitif ;
-* pas d'antagoniste définitif ;
-* pas d'intrigue définitive ;
-* pas de conflit principal définitif ;
-* pas de fin définitive.
+classes sociales ;
 
-La priorité actuelle est de **construire l'univers**.
+gouvernement ;
 
-L'histoire sera développée **une fois que le monde sera suffisamment solide**.
+culture ;
 
-Elle se déroulera principalement dans la Tour, avec éventuellement quelques scènes exceptionnelles à l'extérieur.
+infrastructures.
+
+
 
 ---
 
-# 14. Direction artistique
+13. Les grands mystères
 
-Le jeu sera réalisé en **3D stylisée**.
+L'univers contient volontairement plusieurs questions fondamentales :
 
-L'objectif n'est pas le réalisme photographique, mais une direction artistique suffisamment travaillée pour produire :
+Qui étaient réellement les humains ayant créé Gargata ?
 
-* de la beauté ;
-* de l'étrangeté ;
-* de l'immensité ;
-* de l'horreur ;
-* de l'émerveillement.
+Pourquoi ont-ils construit cette planète ?
 
-La 3D est particulièrement importante pour représenter l'échelle de Gargata.
+Pourquoi ont-ils voulu créer une biosphère entière ?
 
-Une scène exceptionnelle pourrait notamment permettre au joueur d'atteindre un endroit extrêmement élevé de la Tour et de découvrir enfin **l'immensité de l'horizon de Gargata**.
+Comment leur civilisation a-t-elle atteint un niveau technologique pareil ?
+
+Qu'est devenue cette ancienne humanité ?
+
+Comment l'humanité actuelle a-t-elle perdu autant de connaissances ?
+
+Pourquoi la Terre est-elle inconnue ?
+
+Quelle est la véritable histoire de Gargata ?
+
+Pourquoi la biosphère créée est-elle aussi hostile aux humains ?
+
+
+Ces questions ne sont pas obligées d'être toutes résolues dans le jeu.
+
+Certaines pourront rester mystérieuses.
+
 
 ---
 
-# 15. Ambiance générale
+14. L'histoire du jeu
 
-L'ambiance recherchée repose principalement sur :
+L'intrigue principale n'est pas encore créée.
 
-**mystère + immensité + beauté + étrangeté + horreur biologique.**
+Il n'y a actuellement pas de protagoniste, d'antagoniste ou de conflit principal définitif.
 
-La Tour doit donner l'impression d'être **un monde humain gigantesque**, tandis que Gargata doit donner l'impression d'être un monde extérieur tellement vaste et étrange que l'humanité n'en représente qu'une infime partie.
+La priorité actuelle est de construire l'univers de Gargata.
 
-Le joueur doit progressivement sentir qu'il vit dans une civilisation construite sur les vestiges d'une histoire **infiniment plus ancienne et plus complexe que ce que les habitants actuels comprennent.**
+L'histoire sera créée plus tard et se déroulera principalement à l'intérieur de la Tour.
+
+Les sorties à l'extérieur pourront éventuellement exister pour certaines scènes extrêmement importantes, mais l'extérieur ne sera pas le lieu principal de l'histoire.
+
 
 ---
 
-# 16. État actuel du projet
+15. Direction artistique
 
-### DÉCIDÉ
+Le jeu sera réalisé en 3D stylisée.
 
-* Nom : **Gargata**
-* Univers parallèle
-* Planète artificielle gigantesque
-* Planète originelle rocheuse d'environ taille terrestre
-* Gravité d'environ 1 g provenant principalement de la planète originelle
-* Mégastructure artificielle autour de celle-ci
-* Couche extérieure rocheuse et organique
-* Ancienne humanité extrêmement avancée
-* Humanité actuelle différente de cette ancienne civilisation
-* Technologie ancienne encore présente
-* Terre inconnue de l'humanité actuelle
-* Extérieur extrêmement hostile
-* Décomposition extrêmement rapide des organismes non adaptés
-* Créatures gargatiennes extrêmement diverses et parfois gigantesques
-* Humanité actuelle vivant dans une immense Tour
-* Jeu principalement situé dans la Tour
-* Sorties extérieures extrêmement rares
-* Jeu en 3D stylisée
-* Mystères volontairement laissés sans réponse possible
-* **Histoire principale pas encore créée**
+L'objectif est d'avoir un monde extrêmement travaillé visuellement, sans chercher le réalisme photographique.
 
-### À CONSTRUIRE
+L'univers doit pouvoir produire simultanément :
 
-* Fonctionnement détaillé de la Tour
-* Société humaine
-* Système politique
-* Économie
-* Ressources
-* Eau
-* Air
-* Énergie
-* Alimentation
-* Histoire détaillée de Gargata
-* Histoire détaillée de l'ancienne humanité
-* Biologie détaillée de Gargata
-* Géographie détaillée
-* Technologie actuelle
-* Technologie ancienne
-* Organisation et architecture de la Tour
-* Et tout ce qui concerne la vie quotidienne dans ce monde.
+émerveillement ;
+
+beauté ;
+
+immensité ;
+
+étrangeté ;
+
+horreur biologique ;
+
+mystère.
+
+
+La 3D permettra notamment de représenter l'échelle gigantesque de Gargata.
+
+Une scène particulièrement importante pourrait permettre au joueur d'atteindre un point extrêmement élevé de la Tour et de découvrir l'immensité de la planète et de son horizon.
+
+
+---
+
+16. Ambiance générale
+
+L'ambiance de Gargata repose principalement sur :
+
+immensité + mystère + beauté + étrangeté + horreur biologique.
+
+La Tour représente le monde humain : immense, organisé, complexe et relativement familier.
+
+À l'extérieur se trouve un monde vivant extrêmement vaste, dont l'environnement et les créatures sont profondément hostiles aux humains.
+
+Et derrière tout cela se trouve une vérité beaucoup plus ancienne :
+
+> L'ensemble du monde dans lequel l'humanité actuelle vit est l'héritage d'une ancienne civilisation humaine capable de construire des choses que l'humanité actuelle ne comprend plus.
+
+
+
+
+---
+
+17. État actuel du projet
+
+DÉFINI / VALIDÉ
+
+Nom : Gargata
+
+Univers parallèle
+
+Gargata est une étoile entourée d'une immense infrastructure de type Dyson
+
+Cette infrastructure sert notamment de source énergétique gigantesque
+
+Une immense couche artificielle a été construite autour de cette structure
+
+Cette couche constitue la surface de la planète
+
+Roche, métal, matériaux artificiels, eau et matière organique ont été utilisés
+
+Une biosphère entière a été créée sur cette surface
+
+La vie de Gargata est extrêmement hostile aux humains
+
+L'extérieur fait pourrir très rapidement les humains non adaptés
+
+Créatures gigantesques et formes de vie aberrantes
+
+Ancienne humanité extrêmement avancée
+
+Ancienne humanité capable de voyager dans l'espace et de construire Gargata
+
+Humanité actuelle incapable de reproduire ces réalisations
+
+Perte d'une immense partie des connaissances anciennes
+
+Technologies anciennes encore présentes
+
+Technologies anciennes parfois intégrées à des objets ordinaires
+
+Terre inconnue de l'humanité actuelle
+
+Humanité actuelle vivant dans une immense Tour
+
+Tour divisée en de nombreux étages
+
+Densité variable selon les étages
+
+Jeu principalement situé dans la Tour
+
+Extérieur réservé à d'éventuelles scènes exceptionnelles
+
+Direction artistique en 3D stylisée
+
+Histoire principale pas encore définie
+
+
+ENCORE À DÉFINIR
+
+Origine exacte de l'ancienne humanité
+
+Pourquoi elle a créé Gargata
+
+Pourquoi elle a voulu créer cette biosphère
+
+Ce qui lui est arrivé
+
+Histoire complète entre l'ancienne humanité et l'humanité actuelle
+
+Fonctionnement exact de la structure de Gargata
+
+Fonctionnement exact de la biosphère
+
+Fonctionnement de l'eau
+
+Fonctionnement de l'air
+
+Fonctionnement énergétique détaillé
+
+Organisation complète de la Tour
+
+Société humaine actuelle
+
+Technologie actuelle
+
+Géographie détaillée de Gargata
+
+Biologie détaillée des organismes de Gargata
+
+Histoire du jeu et intrigue principale
